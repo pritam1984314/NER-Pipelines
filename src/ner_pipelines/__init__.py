@@ -9,10 +9,6 @@ log_filepath = os.path.join(log_dir,"pipeline.log")
 os.makedirs(log_dir,exist_ok=True)
 
 logging.basicConfig(
-    level=logging.INFO  
-)
-
-logging.basicConfig(
     level=logging.INFO,
     format=logging_str,
     
