@@ -11,9 +11,9 @@ dvc
 notebook
 matplotlib
 seaborn
-python-box==6.0.2
+python-box[all]~=7.0
 pyYAML
-ensure==1.0.2
+ensure
 joblib
 types-pyYAML
 scipy
