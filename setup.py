@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "NER-Pipelines--Project"
 AUTHOR_USER_NAME = "pritam1984314"
-SRC_REPO = "NER-Pipelines"
+SRC_REPO = "ner_pipelines"
 AUTHOR_EMAIL = "pritam1984314@gmail.com"
 
 
