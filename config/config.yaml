@@ -2,6 +2,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/pritam1984314/NER-Pipelines/blob/main/data/ner_data.zip
+  source_URL: https://github.com/pritam1984314/NER-Pipelines/raw/main/ner_data.zip
   local_data_file: artifacts/data_ingestion/net_data
   unzip_dir: artifacts/data_ingestion
